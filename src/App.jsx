@@ -1,5 +1,6 @@
 import React from 'react';
-import { Route, Switch } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
+
 import PuppyList from './components/PuppyList.jsx';
 import PuppyDetails from './components/PuppyDetails.jsx';
 import PuppyForm from './components/PuppyForm.jsx';
